@@ -1,0 +1,31 @@
+.jason {
+    color:red;
+}
+
+* {
+    border: solid;
+}
+
+.item {
+    background-color:green;
+    display:flex;
+}
+.grid img{
+    border:2px solid black;
+    border-radius:50px;
+    display:flex;
+    flex-wrap:wrap;
+   
+}
+.oragami {
+    border-radius:20px;
+    background-color:white ;
+    width: 310px;
+    font-family:arial;
+    text-align:center;
+
+}
+body {
+    background-color:#663320;
+    margin:10px;
+}
